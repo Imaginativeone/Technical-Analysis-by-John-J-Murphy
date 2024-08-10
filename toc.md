@@ -21,13 +21,13 @@
 - Universal Principles 021
 
 ## 02 - Dow Theory 023
-Introduction 023
-Basic Tenets 24
-The Use of Closing Prices and the Presence of Lines 030
-Some Criticisms of Dow Theory 31 
-Stocks as Economic Indicators 23
-Dow Theory Applied to Futures Trading 32
-Conclusion 033
+- Introduction 023
+- Basic Tenets 024
+- The Use of Closing Prices and the Presence of Lines 030
+- Some Criticisms of Dow Theory 031
+- Stocks as Economic Indicators 023
+- Dow Theory Applied to Futures Trading 032
+- Conclusion 033
 
 ## 03 - Chart Construction 035
 Introduction 53
