@@ -30,33 +30,33 @@
 - Conclusion 033
 
 ## 03 - Chart Construction 035
-Introduction 53
-Types of Charts Available 
-Candlesticks 37
-Arithmetic versus Logarithmic Scale 039
-Construction of the Daily Bar Chart 040
-Volume 41
-Futures Open Interest 42 
-Weekly and Monthly Bar Charts 045
-Conclusion 046
+- Introduction 035
+- Types of Charts Available 036
+- Candlesticks 037
+- Arithmetic versus Logarithmic Scale 039
+- Construction of the Daily Bar Chart 040
+- Volume 041
+- Futures Open Interest 042 
+- Weekly and Monthly Bar Charts 045
+- Conclusion 046
 
 ## 04 - Basic Concepts of Trend 049
-Definition of Trend 49 
-Trend Has Three Directions 051
-Trend Has Three Classifications 052
-Support and Resistance
-Trendlines 65
-The Fan Principle 74
-The Importance of the Number Three 
-The Relative Steepness of the Trendline
-The Channel Line 80 
-Percentage Retracements 85
-Speed Resistance Lines 87
-Gann and Fibonacci Fan Lines 90 
-Internal Trendlines 90
-Reversal Days 90
-Price Gaps 94
-Conclusion 98
+- Definition of Trend 049
+- Trend Has Three Directions 051
+- Trend Has Three Classifications 052
+- Support and Resistance 055
+- Trendlines 065
+- The Fan Principle 074
+- The Importance of the Number Three 076
+- The Relative Steepness of the Trendline 076
+- The Channel Line 080
+- Percentage Retracements 085
+- Speed Resistance Lines 087
+- Gann and Fibonacci Fan Lines 090
+- Internal Trendlines 090
+- Reversal Days 090
+- Price Gaps 094
+- Conclusion 098
 
 ## 05 - Major Reversal Patterns 099
 Introduction 99
