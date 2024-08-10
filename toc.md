@@ -1,25 +1,24 @@
 # Technical Analysis of the Financial Markets by John J. Murphy
-
-About the Author xxiii
-About the Contributors xxv
-Introduction xxvii
-Acknowledgments xxxi
+- About the Author xxiii
+- About the Contributors xxv
+- Introduction xxvii
+- Acknowledgments xxxi
 
 ## 01 - Philosophy of Technical Analysis 001
-Introduction 001
-Philosophy or Rationale 2
-Technical versus Fundamental Forecasting 5
-Analysis versus Timing 6
-Flexibility and Adaptability of Technical Analysis 007
-Technical Analysis Applied to Different Trading Mediums 008
-Technical Analysis Applied to Different Time Dimensions 009
-Economic Forecasting 10 
-Technician or Chartist? 10
-A Brief Comparison of Technical Analysis in Stocks and Futures 12
-Less Reliance on Market Averages and Indicators 14
-Some Criticisms of the Technical Approach 15
-Random Walk Theory 19
-Universal Principles 21
+- Introduction 001
+- Philosophy or Rationale 002
+- Technical versus Fundamental Forecasting 005
+- Analysis versus Timing 006
+- Flexibility and Adaptability of Technical Analysis 007
+- Technical Analysis Applied to Different Trading Mediums 008
+- Technical Analysis Applied to Different Time Dimensions 009
+- Economic Forecasting 010
+- Technician or Chartist? 010
+- A Brief Comparison of Technical Analysis in Stocks and Futures 012
+- Less Reliance on Market Averages and Indicators 014
+- Some Criticisms of the Technical Approach 015
+- Random Walk Theory 019
+- Universal Principles 021
 
 ## 02 - Dow Theory 023
 Introduction 023
