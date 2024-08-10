@@ -207,7 +207,7 @@ Combining Cycles with Other Technical Tools 374
 Maxmimum Entropy Spectral Analysis 374
 Cycle Reading and Software 375
 
-Computers and Trading Systems 37
+## 15 - Computers and Trading Systems 37
 Introduction 37
 Some Computer Needs 379 Grouping Tols and Indicators 380 Using the Tools and Indicators 380
 Weles Wilder: Parabolic and Directional Movement Systems 381
@@ -219,7 +219,7 @@ Pros and Cons of System Trading Need Expert Help? 389
 Test Systems or Create Your Own 
 Conclusion 390
 
-Money Management and Trading Tactics 393
+## 16 - Money Management and Trading Tactics 393
 Introduction 393
 The Three Elements of Successful Trading 393
 Money Management 394 
@@ -237,7 +237,7 @@ Asset Allocation 409
 Managed Accounts and Mutual Funds 
 Market Profile 411
 
-The Link Between Stocks and Futures: Intermarket Analysis 414
+## 17 - The Link Between Stocks and Futures: Intermarket Analysis 413
 Program Trading: The Ultimate Link 415
 The Link Between Bonds and Stocks 416
 The Link Between Bonds and Commodities 418 
@@ -253,7 +253,7 @@ Intermarket Correlation 428
 Intermarket Neural Network Software 
 Conclusion 430
 
-Stock Market Indicators
+## 18 - Stock Market Indicators
 Measuring Market Breadth
 Sample Data 434
 Comparing Market Averages
@@ -275,7 +275,7 @@ Candlepower 448
 Comparing Market Averages
 Conclusion 452
 
-Pulling It All Together - A Checklist 
+## 19 - Pulling It All Together - A Checklist 
 Technical Checklist 454
 How to Coordinate Technical and Fundamental Analysis 455
 Chartered Market Technician (CMT) 456 
@@ -285,13 +285,13 @@ Technical Analysis by Any Name 458
 Federal Reserve Finally Approves 459 
 Conclusion 460
 
-Advanced Technical Indicators
+## A - Advanced Technical Indicators
 Demand Index (DI) 463 
 Herrick Payoff Index (HPI) 466
 Starc Bands and Keltner Channels 469
 Formula for Demand Index 473
 
-Market Profile
+## B - Market Profile
 Introduction 475
 Market Profile Graphic 
 Market Structure 479
@@ -300,7 +300,7 @@ Range Development and Profile Patterns 484
 Tracking Longer Term Market Activity 486 
 Conclusion 490
 
-The Essentials of Building a Trading System 493
+## C - The Essentials of Building a Trading System 493
 5-Step Plan 494
 Step 1: Start with a Concept (an Idea) 495
 Step 2: Turn Your Idea into a Set of Objective Rules
@@ -310,7 +310,7 @@ Step 5: Evaluate Results 500
 Money Management 501
 Conclusion 501
 
-Continuous Futures Contracts
+## D - Continuous Futures Contracts
 Nearest Contract 506
 Next Contract 506
 Gann Contract 507
