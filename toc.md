@@ -59,7 +59,7 @@ Reversal Days 90
 Price Gaps 94
 Conclusion 98
 
-## Major Reversal Patterns 099
+## 05 - Major Reversal Patterns 099
 Introduction 99
 Price Patterns 100
 Two Types of Patterns: Reversal and Continuation 100
@@ -73,7 +73,7 @@ Variations from the Ideal Pattern
 Saucers and Spikes 125
 Conclusion
 
-## Continuation Patterns
+## 06 - Continuation Patterns
 Introduction 129 
 Triangles 130
 The Symmetrical Triangle
@@ -88,12 +88,11 @@ The Continuation Head and Shoulders Pattern 153
 Confirmation and Divergence 155
 Conclusion 156
 
-## Volume and Open Interest
+## 07 - Volume and Open Interest
 Introduction 157
 Volume and Open Interest as Secondary Indicators 158
 Interpretation of Volume for All Markets 162
 Interpretation of Open Interest in Futures
-
 Summary of Volume and Open Interest Rules 174
 Blowoffs and Selling Climaxes 175
 Commitments of Traders Report 175
@@ -104,7 +103,7 @@ Put/Call Ratios 178
 Combine Option Sentiment With Technicals
 Conclusion 179
 
-Long-Term Charts 181
+## 08 - Long-Term Charts 181
 Introduction 181
 The Importance of Longer Range Perspective 182 
 Construction of Continuation Charts for Futures 182
@@ -116,7 +115,7 @@ Why Should Long Range Charts Be Adjusted for Inflation?
 Long Term Charts Not Intended for Trading Purposes 188
 Examples of Long Term Charts 188
 
-Moving Averages
+## 09 - Moving Averages
 Moving Averages Introduction 195
 The Moving Average: A Smoothnig Device with a Time Lag
 Moving Average Envelopes 207
@@ -132,15 +131,15 @@ Summary 221
 The Adaptive Moving Average 
 Alternatives to the Moving Average
 
-Oscillators and Contrary Opinion
+## 10 - Oscillators and Contrary Opinion 225
 Introduction 225
 Oscillator Usage ni Conjunction with Trend 228
 Measuring Momentum
 Measuring Rate of Change (ROC) 234
 Constrating na al lator Unsig wTo Monvgi 234
 Commodity Channel Index 237
-The Relative Strength Index (RSI)
-239 Using the 70 and 30 Lines ot Generate Signals Stochastics (K%D) 246
+The Relative Strength Index (RSI) 239 
+Using the 70 and 30 Lines ot Generate Signals Stochastics (K%D) 246
 Lary Wiliams %R 249
 The Importance of Trend 251
 When Oscillators are Most Useful 251
@@ -151,7 +150,7 @@ The Principle of Contrary Opinion ni Futures 257
 Investor Sentiment Readings 261
 Investors Intelligence Numbers 262
 
-Point and Figure Charting 265
+## 11 - Point and Figure Charting 265
 Introduction 266
 The Point and Figure Versus the Bar Chart 270
 Construction fohte nirtaday Ponit nad Fgiuer
@@ -168,8 +167,17 @@ Computerized P&F Charting
 P&F Moving Averages 294
 Conclusion 296
 
-Elliott Wave Theory
-Historical Background 299
+## 12 - Japanese Candlesticks
+Introduction 297
+Candlestick Charting 297
+Basic Candlesticks 299
+Candle Pattern Analysis 301
+Filtered Candle Patterns 306
+Conclusion 308
+Candle Patterns 309
+
+## 13 - Elliott Wave Theory 319
+Historical Background 319
 The Basic Tenets of the Wave Principle 320
 Connection Between Elliott Wave and Dow Theory 324
 Corrective Waves 324
@@ -182,7 +190,8 @@ Elliott Wave Applied to Stocks Versus Commodities 340
 Summary and Conclusions 
 Reference Material 342
 
-Time Cycles Introduction 343
+## 14 - Time Cycles 343
+Introduction 343
 Cycles 344
 How Cyclic Concepts Help Explain Charting Techniques 355
 Dominant Cycles 358
