@@ -5,13 +5,12 @@ About the Contributors xxv
 Introduction xxvii
 Acknowledgments xxxi
 
-## Philosophy of Technical Analysis 001
+## 01 - Philosophy of Technical Analysis 001
 Introduction 001
 Philosophy or Rationale 2
 Technical versus Fundamental Forecasting 5
 Analysis versus Timing 6
-
-## Flexibility and Adaptability of Technical Analysis 007
+Flexibility and Adaptability of Technical Analysis 007
 Technical Analysis Applied to Different Trading Mediums 008
 Technical Analysis Applied to Different Time Dimensions 009
 Economic Forecasting 10 
@@ -22,7 +21,7 @@ Some Criticisms of the Technical Approach 15
 Random Walk Theory 19
 Universal Principles 21
 
-## Dow Theory 023
+## 02 - Dow Theory 023
 Introduction 023
 Basic Tenets 24
 The Use of Closing Prices and the Presence of Lines 030
@@ -31,7 +30,7 @@ Stocks as Economic Indicators 23
 Dow Theory Applied to Futures Trading 32
 Conclusion 033
 
-## Chart Construction 035
+## 03 - Chart Construction 035
 Introduction 53
 Types of Charts Available 
 Candlesticks 37
@@ -42,7 +41,7 @@ Futures Open Interest 42
 Weekly and Monthly Bar Charts 045
 Conclusion 046
 
-Basic Concepts of Trend 049
+## 04 - Basic Concepts of Trend 049
 Definition of Trend 49 
 Trend Has Three Directions 051
 Trend Has Three Classifications 052
@@ -60,7 +59,7 @@ Reversal Days 90
 Price Gaps 94
 Conclusion 98
 
-Major Reversal Patterns 099
+## Major Reversal Patterns 099
 Introduction 99
 Price Patterns 100
 Two Types of Patterns: Reversal and Continuation 100
@@ -74,7 +73,7 @@ Variations from the Ideal Pattern
 Saucers and Spikes 125
 Conclusion
 
-Continuation Patterns
+## Continuation Patterns
 Introduction 129 
 Triangles 130
 The Symmetrical Triangle
@@ -89,7 +88,7 @@ The Continuation Head and Shoulders Pattern 153
 Confirmation and Divergence 155
 Conclusion 156
 
-Volume and Open Interest
+## Volume and Open Interest
 Introduction 157
 Volume and Open Interest as Secondary Indicators 158
 Interpretation of Volume for All Markets 162
