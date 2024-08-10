@@ -11,7 +11,7 @@ Philosophy or Rationale 2
 Technical versus Fundamental Forecasting 5
 Analysis versus Timing 6
 
-Flexibility and Adaptability of Technical Analysis 007
+## Flexibility and Adaptability of Technical Analysis 007
 Technical Analysis Applied to Different Trading Mediums 008
 Technical Analysis Applied to Different Time Dimensions 009
 Economic Forecasting 10 
@@ -22,7 +22,7 @@ Some Criticisms of the Technical Approach 15
 Random Walk Theory 19
 Universal Principles 21
 
-Dow Theory 023
+## Dow Theory 023
 Introduction 023
 Basic Tenets 24
 The Use of Closing Prices and the Presence of Lines 030
@@ -31,7 +31,7 @@ Stocks as Economic Indicators 23
 Dow Theory Applied to Futures Trading 32
 Conclusion 033
 
-Chart Construction 035
+## Chart Construction 035
 Introduction 53
 Types of Charts Available 
 Candlesticks 37
