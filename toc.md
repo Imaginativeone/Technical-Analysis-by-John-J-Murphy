@@ -1,11 +1,11 @@
-Techncial Analysis of the Financial Markets by John J. Murphy
+# Technical Analysis of the Financial Markets by John J. Murphy
 
 About the Author xxiii
 About the Contributors xxv
 Introduction xxvii
 Acknowledgments xxxi
 
-Philosophy of Technical Analysis 001
+## Philosophy of Technical Analysis 001
 Introduction 001
 Philosophy or Rationale 2
 Technical versus Fundamental Forecasting 5
