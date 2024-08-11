@@ -59,18 +59,19 @@
 - Conclusion 098
 
 ## 05 - Major Reversal Patterns 099
-Introduction 99
-Price Patterns 100
-Two Types of Patterns: Reversal and Continuation 100
-The Head and Shoulders Reversal Pattern 103
-The Importance of Volume 107 
-Finding a Price Objective 108
-The Inverse Head and Shoulders 110
-Complex Head and Shoulders Triple Tops and Bottoms 15
-Double Tops and Bottoms 17 
-Variations from the Ideal Pattern
-Saucers and Spikes 125
-Conclusion
+- Introduction 99
+- Price Patterns 100
+- Two Types of Patterns: Reversal and Continuation 100
+- The Head and Shoulders Reversal Pattern 103
+- The Importance of Volume 107 
+- Finding a Price Objective 108
+- The Inverse Head and Shoulders 110
+- Complex Head and Shoulders 113
+- Triple Tops and Bottoms 115
+- Double Tops and Bottoms 117
+- Variations from the Ideal Pattern 121
+- Saucers and Spikes 125
+- Conclusion 128
 
 ## 06 - Continuation Patterns
 Introduction 129 
