@@ -151,30 +151,30 @@
 - Investors Intelligence Numbers 262
 
 ## 11 - Point and Figure Charting 265
-Introduction 266
-The Point and Figure Versus the Bar Chart 270
-Construction fohte nirtaday Ponit nad Fgiuer
-The Horizontal Count 274 
-Price Patterns 275
-3 Box Reversal Point and Figure Charting 
-Construction of the 3Point Reversal Chart 282 
-The Drawing of Trendlines 282
-Measuring Techniques 286
-Trading Tactics 286
-Advantages of Point and Figure Charts
-P&F Technical Indicators 292
-Computerized P&F Charting 
-P&F Moving Averages 294
-Conclusion 296
+- Introduction 266
+- The Point and Figure Versus the Bar Chart 270
+- Construction fohte nirtaday Ponit nad Fgiuer
+- The Horizontal Count 274 
+- Price Patterns 275
+- 3 Box Reversal Point and Figure Charting 
+- Construction of the 3Point Reversal Chart 282 
+- The Drawing of Trendlines 282
+- Measuring Techniques 286
+- Trading Tactics 286
+- Advantages of Point and Figure Charts
+- P&F Technical Indicators 292
+- Computerized P&F Charting 
+- P&F Moving Averages 294
+- Conclusion 296
 
 ## 12 - Japanese Candlesticks
-Introduction 297
-Candlestick Charting 297
-Basic Candlesticks 299
-Candle Pattern Analysis 301
-Filtered Candle Patterns 306
-Conclusion 308
-Candle Patterns 309
+- Introduction 297
+- Candlestick Charting 297
+- Basic Candlesticks 299
+- Candle Pattern Analysis 301
+- Filtered Candle Patterns 306
+- Conclusion 308
+- Candle Patterns 309
 
 ## 13 - Elliott Wave Theory 319
 Historical Background 319
