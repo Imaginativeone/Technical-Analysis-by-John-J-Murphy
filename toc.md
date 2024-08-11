@@ -74,19 +74,19 @@
 - Conclusion 128
 
 ## 06 - Continuation Patterns
-Introduction 129 
-Triangles 130
-The Symmetrical Triangle
-The Ascending Triangle 
-The Descending Triangle
-The Broadening Formation 
-Flags and Pennants 141
-The Wedge Formation 
-The Rectangle Formation
-The Measured Move
-The Continuation Head and Shoulders Pattern 153
-Confirmation and Divergence 155
-Conclusion 156
+- Introduction 129
+- Triangles 130
+- The Symmetrical Triangle 132
+- The Ascending Triangle 136
+- The Descending Triangle 138
+- The Broadening Formation 140
+- Flags and Pennants 141
+- The Wedge Formation 146
+- The Rectangle Formation 147
+- The Measured Move 151
+- The Continuation Head and Shoulders Pattern 153
+- Confirmation and Divergence 155
+- Conclusion 156
 
 ## 07 - Volume and Open Interest
 Introduction 157
