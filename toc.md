@@ -104,51 +104,51 @@
 - Conclusion 179
 
 ## 08 - Long-Term Charts 181
-Introduction 181
-The Importance of Longer Range Perspective 182 
-Construction of Continuation Charts for Futures 182
-The Perpetual ContractiM 184
-Long Term Trends Dispute Randomness 184
-Patterns on Charts: Weekly and Monthly Reversals 185
-Long Term ot Short Term Charts 185
-Why Should Long Range Charts Be Adjusted for Inflation?
-Long Term Charts Not Intended for Trading Purposes 188
-Examples of Long Term Charts 188
+- Introduction 181
+- The Importance of Longer Range Perspective 182 
+- Construction of Continuation Charts for Futures 182
+- The Perpetual ContractiM 184
+- Long Term Trends Dispute Randomness 184
+- Patterns on Charts: Weekly and Monthly Reversals 185
+- Long Term ot Short Term Charts 185
+- Why Should Long Range Charts Be Adjusted for Inflation?
+- Long Term Charts Not Intended for Trading Purposes 188
+- Examples of Long Term Charts 188
 
 ## 09 - Moving Averages
-Moving Averages Introduction 195
-The Moving Average: A Smoothnig Device with a Time Lag
-Moving Average Envelopes 207
-Bollinger Bands 209
-Using Bolinger Bands as Targets 210
-Band Width Measures Volatility 211 
-Moving Averages Tied to Cycles 212
-Fibonacci Numbers Used as Moving Averages
-Movnig Averages Apeildot Long Tmer Charts
-The Weekly Rule 215
-To Optimize or Not 
-Summary 221
-The Adaptive Moving Average 
-Alternatives to the Moving Average
+- Moving Averages Introduction 195
+- The Moving Average: A Smoothnig Device with a Time Lag
+- Moving Average Envelopes 207
+- Bollinger Bands 209
+- Using Bollinger Bands as Targets 210
+- Band Width Measures Volatility 211 
+- Moving Averages Tied to Cycles 212
+- Fibonacci Numbers Used as Moving Averages
+- Moving Averages Apeildot Long Tmer Charts
+- The Weekly Rule 215
+- To Optimize or Not 
+- Summary 221
+- The Adaptive Moving Average 
+- Alternatives to the Moving Average
 
 ## 10 - Oscillators and Contrary Opinion 225
-Introduction 225
-Oscillator Usage ni Conjunction with Trend 228
-Measuring Momentum
-Measuring Rate of Change (ROC) 234
-Constrating na al lator Unsig wTo Monvgi 234
-Commodity Channel Index 237
-The Relative Strength Index (RSI) 239 
-Using the 70 and 30 Lines ot Generate Signals Stochastics (K%D) 246
-Lary Wiliams %R 249
-The Importance of Trend 251
-When Oscillators are Most Useful 251
-Movnig Avearge 2avergence/Divergence (MACD)
-MACD Histogram 25
-Combine Weeklies and Dailies 256
-The Principle of Contrary Opinion ni Futures 257 
-Investor Sentiment Readings 261
-Investors Intelligence Numbers 262
+- Introduction 225
+- Oscillator Usage in Conjunction with Trend 228
+- Measuring Momentum
+- Measuring Rate of Change (ROC) 234
+- Constructing an Oscillator Using Two Moving Averages 234
+- Commodity Channel Index 237
+- The Relative Strength Index (RSI) 239 
+- Using the 70 and 30 Lines ot Generate Signals Stochastics (K%D) 246
+- Larry Williams %R 249
+- The Importance of Trend 251
+- When Oscillators are Most Useful 251
+- Moving Average Convergence/Divergence (MACD)
+- MACD Histogram 25
+- Combine Weeklies and Dailies 256
+- The Principle of Contrary Opinion in Futures 257 
+- Investor Sentiment Readings 261
+- Investors Intelligence Numbers 262
 
 ## 11 - Point and Figure Charting 265
 Introduction 266
