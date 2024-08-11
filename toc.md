@@ -286,36 +286,36 @@
 - Conclusion 460
 
 ## A - Advanced Technical Indicators
-Demand Index (DI) 463 
-Herrick Payoff Index (HPI) 466
-Starc Bands and Keltner Channels 469
-Formula for Demand Index 473
+- Demand Index (DI) 463
+- Herrick Payoff Index (HPI) 466
+- Starc Bands and Keltner Channels 469
+- Formula for Demand Index 473
 
 ## B - Market Profile
-Introduction 475
-Market Profile Graphic 
-Market Structure 479
-Market Profile Organizing Principles 480 
-Range Development and Profile Patterns 484 
-Tracking Longer Term Market Activity 486 
-Conclusion 490
+- Introduction 475
+- Market Profile Graphic 
+- Market Structure 479
+- Market Profile Organizing Principles 480 
+- Range Development and Profile Patterns 484 
+- Tracking Longer Term Market Activity 486 
+- Conclusion 490
 
 ## C - The Essentials of Building a Trading System 493
-5-Step Plan 494
-Step 1: Start with a Concept (an Idea) 495
-Step 2: Turn Your Idea into a Set of Objective Rules
-Step 3; Visually Check it Out on the Charts 
-Step 4: Formally Test It with a Computer 
-Step 5: Evaluate Results 500
-Money Management 501
-Conclusion 501
+- 5-Step Plan 494
+- Step 1: Start with a Concept (an Idea) 495
+- Step 2: Turn Your Idea into a Set of Objective Rules
+- Step 3; Visually Check it Out on the Charts 
+- Step 4: Formally Test It with a Computer 
+- Step 5: Evaluate Results 500
+- Money Management 501
+- Conclusion 501
 
 ## D - Continuous Futures Contracts
-Nearest Contract 506
-Next Contract 506
-Gann Contract 507
-Continuous Contracts 507
-Constant Forward Continuous Contracts 508
-Glossary 51 Selected Bibliography
-Selected Resources 527
-Index 531
+- Nearest Contract 506
+- Next Contract 506
+- Gann Contract 507
+- Continuous Contracts 507
+- Constant Forward Continuous Contracts 508
+- Glossary 51 Selected Bibliography
+- Selected Resources 527
+- Index 531
