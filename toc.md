@@ -177,35 +177,35 @@
 - Candle Patterns 309
 
 ## 13 - Elliott Wave Theory 319
-Historical Background 319
-The Basic Tenets of the Wave Principle 320
-Connection Between Elliott Wave and Dow Theory 324
-Corrective Waves 324
-The Rule of Alternation 31
-Channeling 332
-Fibonacci Numbers as the Basis of the Wave Principle 334
-Fibonacci Ratios and Retracements 335 Fibonacci Time Targets 338
-Combining Al Three Aspects of Wave Theory
-Elliott Wave Applied to Stocks Versus Commodities 340
-Summary and Conclusions 
-Reference Material 342
+- Historical Background 319
+- The Basic Tenets of the Wave Principle 320
+- Connection Between Elliott Wave and Dow Theory 324
+- Corrective Waves 324
+- The Rule of Alternation 31
+- Channeling 332
+- Fibonacci Numbers as the Basis of the Wave Principle 334
+- Fibonacci Ratios and Retracements 335 Fibonacci Time Targets 338
+- Combining Al Three Aspects of Wave Theory
+- Elliott Wave Applied to Stocks Versus Commodities 340
+- Summary and Conclusions 
+- Reference Material 342
 
 ## 14 - Time Cycles 343
-Introduction 343
-Cycles 344
-How Cyclic Concepts Help Explain Charting Techniques 355
-Dominant Cycles 358
-Combining Cycle Lengths 361
-The Importance of Trend 361
-Left and Right Translation 362
-How to Isolate Cycles 363
-Seasonal Cycles 369
-Stock Market Cycles 373
-The January Barometer 373
-The Presidential Cycel 373
-Combining Cycles with Other Technical Tools 374 
-Maxmimum Entropy Spectral Analysis 374
-Cycle Reading and Software 375
+- Introduction 343
+- Cycles 344
+- How Cyclic Concepts Help Explain Charting Techniques 355
+- Dominant Cycles 358
+- Combining Cycle Lengths 361
+- The Importance of Trend 361
+- Left and Right Translation 362
+- How to Isolate Cycles 363
+- Seasonal Cycles 369
+- Stock Market Cycles 373
+- The January Barometer 373
+- The Presidential Cycel 373
+- Combining Cycles with Other Technical Tools 374 
+- Maximmum Entropy Spectral Analysis 374
+- Cycle Reading and Software 375
 
 ## 15 - Computers and Trading Systems 37
 Introduction 37
