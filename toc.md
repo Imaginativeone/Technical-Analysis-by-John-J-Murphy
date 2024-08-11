@@ -89,19 +89,19 @@
 - Conclusion 156
 
 ## 07 - Volume and Open Interest
-Introduction 157
-Volume and Open Interest as Secondary Indicators 158
-Interpretation of Volume for All Markets 162
-Interpretation of Open Interest in Futures
-Summary of Volume and Open Interest Rules 174
-Blowoffs and Selling Climaxes 175
-Commitments of Traders Report 175
-Watch the Commercials
-Net Trader Positions
-Open Interest in Options 177
-Put/Call Ratios 178
-Combine Option Sentiment With Technicals
-Conclusion 179
+- Introduction 157
+- Volume and Open Interest as Secondary Indicators 158
+- Interpretation of Volume for All Markets 162
+- Interpretation of Open Interest in Futures 169
+- Summary of Volume and Open Interest Rules 174
+- Blowoffs and Selling Climaxes 175
+- Commitments of Traders Report 175
+- Watch the Commercials 176
+- Net Trader Positions 177
+- Open Interest in Options 177
+- Put/Call Ratios 178
+- Combine Option Sentiment With Technicals 179
+- Conclusion 179
 
 ## 08 - Long-Term Charts 181
 Introduction 181
