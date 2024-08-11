@@ -208,34 +208,34 @@
 - Cycle Reading and Software 375
 
 ## 15 - Computers and Trading Systems 37
-Introduction 37
-Some Computer Needs 379 Grouping Tols and Indicators 380 Using the Tools and Indicators 380
-Weles Wilder: Parabolic and Directional Movement Systems 381
-Money Management and Trading
-Tactics 393
-Introduction 393
-The Three Elements of Successful Trading
-Pros and Cons of System Trading Need Expert Help? 389
-Test Systems or Create Your Own 
-Conclusion 390
+- Introduction 37
+- Some Computer Needs 379 Grouping Tols and Indicators 380 Using the Tools and Indicators 380
+- Weles Wilder: Parabolic and Directional Movement Systems 381
+- Money Management and Trading
+- Tactics 393
+- Introduction 393
+- The Three Elements of Successful Trading
+- Pros and Cons of System Trading Need Expert Help? 389
+- Test Systems or Create Your Own 
+- Conclusion 390
 
 ## 16 - Money Management and Trading Tactics 393
-Introduction 393
-The Three Elements of Successful Trading 393
-Money Management 394 
-Reward to Risk Ratios 397
-Trading Multiple Positions: Trending versus Trading Units 398
-What to Do After Periods of Success and Adversity 399
-Trading Tactics 400
-Combining Technical Factors and Money Management 403
-Types of Trading Orders 403
-From Daily Charts ot Intraday Price Charts 405 
-The Use of Intraday Pivot Points 407
-Summary of Money Management and Trading Guidelines 408
-Application to Stocks 
-Asset Allocation 409
-Managed Accounts and Mutual Funds 
-Market Profile 411
+- Introduction 393
+- The Three Elements of Successful Trading 393
+- Money Management 394 
+- Reward to Risk Ratios 397
+- Trading Multiple Positions: Trending versus Trading Units 398
+- What to Do After Periods of Success and Adversity 399
+- Trading Tactics 400
+- Combining Technical Factors and Money Management 403
+- Types of Trading Orders 403
+- From Daily Charts ot Intraday Price Charts 405 
+- The Use of Intraday Pivot Points 407
+- Summary of Money Management and Trading Guidelines 408
+- Application to Stocks 
+- Asset Allocation 409
+- Managed Accounts and Mutual Funds 
+- Market Profile 411
 
 ## 17 - The Link Between Stocks and Futures: Intermarket Analysis 413
 Program Trading: The Ultimate Link 415
