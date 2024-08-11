@@ -238,52 +238,52 @@
 - Market Profile 411
 
 ## 17 - The Link Between Stocks and Futures: Intermarket Analysis 413
-Program Trading: The Ultimate Link 415
-The Link Between Bonds and Stocks 416
-The Link Between Bonds and Commodities 418 
-The Link Between Commodities and the Dollar
-Stock Sectors and Industry Groups
-The Dolar and Large Caps 42 
-Intermarket Analysis and Mutual Funds 
-Relative Strength Analysis 423
-Relative Strength and Sectors 424 
-Relative Strength and Individual Stocks
-Top-Down Market Approach 427 Deflation Scenario 427
-Intermarket Correlation 428 
-Intermarket Neural Network Software 
-Conclusion 430
+- Program Trading: The Ultimate Link 415
+- The Link Between Bonds and Stocks 416
+- The Link Between Bonds and Commodities 418 
+- The Link Between Commodities and the Dollar
+- Stock Sectors and Industry Groups
+- The Dollar and Large Caps 42 
+- Intermarket Analysis and Mutual Funds 
+- Relative Strength Analysis 423
+- Relative Strength and Sectors 424 
+- Relative Strength and Individual Stocks
+- Top-Down Market Approach 427 Deflation Scenario 427
+- Intermarket Correlation 428 
+- Intermarket Neural Network Software 
+- Conclusion 430
 
 ## 18 - Stock Market Indicators
-Measuring Market Breadth
-Sample Data 434
-Comparing Market Averages
-The Advance-Decline Line
-AD Divergence 437
-Daily Versus Weekly AD Lines 
-Variations in AD Line 437 
-McClellan Oscillator 438 
-McClellan Summation Index 
-New Highs Versus New Lows 
-New High-New Low Index
-Upside Versus Downside Volume 
-The Arms Index 4
-TRIN Versus TCIK 444
-Smoothing the Arms Index
-Open Arms 46
-Equivolume Charting
-Candlepower 448
-Comparing Market Averages
-Conclusion 452
+- Measuring Market Breadth
+- Sample Data 434
+- Comparing Market Averages
+- The Advance-Decline Line
+- AD Divergence 437
+- Daily Versus Weekly AD Lines 
+- Variations in AD Line 437 
+- McClellan Oscillator 438 
+- McClellan Summation Index 
+- New Highs Versus New Lows 
+- New High-New Low Index
+- Upside Versus Downside Volume 
+- The Arms Index 4
+- TRIN Versus TCIK 444
+- Smoothing the Arms Index
+- Open Arms 46
+- Equivolume Charting
+- Candlepower 448
+- Comparing Market Averages
+- Conclusion 452
 
 ## 19 - Pulling It All Together - A Checklist 
-Technical Checklist 454
-How to Coordinate Technical and Fundamental Analysis 455
-Chartered Market Technician (CMT) 456 
-Market Technicians Association (MTA) 457
-The Global Reach of Technical Analysis 
-Technical Analysis by Any Name 458 
-Federal Reserve Finally Approves 459 
-Conclusion 460
+- Technical Checklist 454
+- How to Coordinate Technical and Fundamental Analysis 455
+- Chartered Market Technician (CMT) 456 
+- Market Technicians Association (MTA) 457
+- The Global Reach of Technical Analysis 
+- Technical Analysis by Any Name 458 
+- Federal Reserve Finally Approves 459 
+- Conclusion 460
 
 ## A - Advanced Technical Indicators
 Demand Index (DI) 463 
