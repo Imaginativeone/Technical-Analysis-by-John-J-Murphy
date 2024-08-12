@@ -6,7 +6,7 @@
 
 ## 01 - Philosophy of Technical Analysis 001
 
-  ### Introduction 001 (August 12, 2024 @04:32 AM)
+  ### Introduction 001 (Begin August 12, 2024 @04:32 AM)
   - ***<span style="color:red">Technical Analysis</span> is the study of market action, primarily through the use of charts, for the purpose of forecasting future price trends.***
   - Market Action
     - Price
@@ -21,9 +21,9 @@
   
   #### Market Action [Discounts](https://www.merriam-webster.com/dictionary/discount) Everything (takes everything into account?)
   - Cornerstone concept
-  - The technician is indirectly studying fundamentals
+  - The technician is indirectly studying fundamentals (End August 12, 2024 @5:26 AM)
 
-  #### Current Progress
+  #### Prices Move in Trends
   - Technical versus Fundamental Forecasting 005
   - Analysis versus Timing 006
   - Flexibility and Adaptability of Technical Analysis 007
