@@ -6,6 +6,11 @@
 
 ## 01 - Philosophy of Technical Analysis 001
 - Introduction 001
+  - ***<span style="color:red">Technical Analysis</span> is the study of market action, primarily through the use of charts, for the purpose of forecasting future price trends.***
+  - Market Action
+    - Price
+    - Volume
+    - Open Interest
 - Philosophy or Rationale 002
 - Technical versus Fundamental Forecasting 005
 - Analysis versus Timing 006
