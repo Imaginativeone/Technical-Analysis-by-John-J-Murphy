@@ -18,6 +18,12 @@
     - 🟢 Market action discounts everything.
     - 🟢 Prices move in trends.
     - 🟢 History repeats itself.
+  
+  #### Market Action [Discounts](https://www.merriam-webster.com/dictionary/discount) Everything (takes everything into account?)
+  - Cornerstone concept
+  - The technician is indirectly studying fundamentals
+
+  #### Current Progress
   - Technical versus Fundamental Forecasting 005
   - Analysis versus Timing 006
   - Flexibility and Adaptability of Technical Analysis 007
