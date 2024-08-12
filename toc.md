@@ -11,6 +11,7 @@
     - Price
     - Volume
     - Open Interest
+  - The term "price action" is often used interchangeably with "market action", even though the former term can be regarded as too narrow, as it includes Volume and Open Interest with the analysis of Prices.
 - Philosophy or Rationale 002
 - Technical versus Fundamental Forecasting 005
 - Analysis versus Timing 006
