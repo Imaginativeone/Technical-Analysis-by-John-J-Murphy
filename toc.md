@@ -5,26 +5,31 @@
 - Acknowledgments xxxi
 
 ## 01 - Philosophy of Technical Analysis 001
-- Introduction 001
+
+  ### Introduction 001 (August 12, 2024 @04:32 AM)
   - ***<span style="color:red">Technical Analysis</span> is the study of market action, primarily through the use of charts, for the purpose of forecasting future price trends.***
   - Market Action
     - Price
     - Volume
     - Open Interest
   - The term "price action" is often used interchangeably with "market action", even though the former term can be regarded as too narrow, as it includes Volume and Open Interest with the analysis of Prices.
-- Philosophy or Rationale 002
-- Technical versus Fundamental Forecasting 005
-- Analysis versus Timing 006
-- Flexibility and Adaptability of Technical Analysis 007
-- Technical Analysis Applied to Different Trading Mediums 008
-- Technical Analysis Applied to Different Time Dimensions 009
-- Economic Forecasting 010
-- Technician or Chartist? 010
-- A Brief Comparison of Technical Analysis in Stocks and Futures 012
-- Less Reliance on Market Averages and Indicators 014
-- Some Criticisms of the Technical Approach 015
-- Random Walk Theory 019
-- Universal Principles 021
+  ### Philosophy or Rationale 002
+  - There are three premises on which the technical approach is based:
+    - 🟢 Market action discounts everything.
+    - 🟢 Prices move in trends.
+    - 🟢 History repeats itself.
+  - Technical versus Fundamental Forecasting 005
+  - Analysis versus Timing 006
+  - Flexibility and Adaptability of Technical Analysis 007
+  - Technical Analysis Applied to Different Trading Mediums 008
+  - Technical Analysis Applied to Different Time Dimensions 009
+  - Economic Forecasting 010
+  - Technician or Chartist? 010
+  - A Brief Comparison of Technical Analysis in Stocks and Futures 012
+  - Less Reliance on Market Averages and Indicators 014
+  - Some Criticisms of the Technical Approach 015
+  - Random Walk Theory 019
+  - Universal Principles 021
 
 ## 02 - Dow Theory 023
 - Introduction 023
